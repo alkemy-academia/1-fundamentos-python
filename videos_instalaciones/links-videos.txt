@@ -1,0 +1,6 @@
+A continuación, se indican los links para acceder a los videos que muestran la instalación de los programas necesarios para el curso.
+
+Instalacion de Python:  https://youtu.be/EFJBr1u4oO8
+Instalacion de Pycharm: https://youtu.be/YQ5VIc93zA8
+Instalacion de VSC:  https://youtu.be/s8N4NVeUMZY
+ 
