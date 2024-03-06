@@ -1,0 +1,15 @@
+.idea/*
+
+*.db
+
+.bash_history
+# Configuration
+.env
+
+# Virtual Environment
+.venv
+tmp
+Procfile.dev
+__pycache__/
+
+.pytest_cache/
